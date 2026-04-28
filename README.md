@@ -14,7 +14,39 @@
 -----
 ## About Me
 
-DevOps & Cloud Engineer, I design and automate production platforms that turn real-time requirements into reliable services.
+DevOps & Cloud Engineer, I design and automate platforms that turn real-time requirements into reliable services. Driven by a mindset of ownership, automation, and high-quality delivery. Always learning and exploring new ways to simplify and automate.
+
+-----
+
+## 🔭 I’m currently working on ...
+
+🔹 [90 Days of DevOps](https://github.com/OmkarMahamuni/90DaysOfDevOps)
+
+🔹 [Python for DevOps](https://github.com/OmkarMahamuni/python-for-devops)
+
+🔹 [Git Hands-On](https://github.com/OmkarMahamuni/Git-Hands-On-Introduction-to-Git.git)
+
+-----
+
+### 💻 Tech Stack - Skills & tools that I'm working on ... 
+
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| ☁️ Cloud | AWS, Microsoft Azure |
+| ⚙️ DevOps & CI/CD | Jenkins, GitHub Actions, GitLab |
+| 🐳 Containers & Orchestration | Docker, Kubernetes |
+| 🧱 Infrastructure as Code & Automation | Terraform, Ansible |
+| 📊 Monitoring & Observability | AWS CloudWatch, Cloudtrail, Prometheus, Grafana |
+| 🐧 OS & Scripting | Linux, Windows, Bash, Python |
+| 🔐 Version Control | Git, GitHub |
+
+-----
+
+### 📫 Connect with me
+
+🔹 [LinkedIn](https://www.linkedin.com/in/omkarmahamuni/)
+
+🔹 [Mail](omkarrm7@gmail.com)
 
 -----
 <!--
